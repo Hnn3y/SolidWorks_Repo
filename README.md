@@ -74,7 +74,7 @@ Each day includes:
 | Day | Task | Tool Used | Status |
 |-----|------|-----------|--------|
 | 01  | Intro to Sketch | SolidWorks | ✅ Completed |
-| 02  | Practice Exercise - Dual Lever Sketch | SolidWorks | ✅ Completed |
+| 02  | Practice Exercise - End Plate Sketch | SolidWorks | ✅ Completed |
 | 03  | ... | ... | 🕐 ... |
 | 04  | ... | ... | ... |
 | 05  | ... | ... | ... |
