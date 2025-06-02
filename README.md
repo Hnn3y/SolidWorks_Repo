@@ -74,11 +74,10 @@ Each day includes:
 | Day | Task | Tool Used | Status |
 |-----|------|-----------|--------|
 | 01  | Basic block modeling | SolidWorks | ✅ Completed |
-| 02  | Revolved shaft | SolidWorks | ✅ Completed |
-| 03  | Threaded component | Fusion 360 | 🕐 In Progress |
-| ... | ... | ... | ... |
-
-> Updated daily in `progress_log.md`
+| 02  | Practice Exercise - Dual Lever Sketch | SolidWorks | ✅ Completed |
+| 03  | ... | ... | 🕐 ... |
+| 04  | ... | ... | ... |
+| 05  | ... | ... | ... |
 
 ---
 
