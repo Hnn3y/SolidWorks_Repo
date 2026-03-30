@@ -1,14 +1,14 @@
-# 🧩 30-Days of CAD Design — with Techyjaut
+# 🧩 CAD Design
 
 ## 📖 Introduction
 
-Welcome to my **30-Day CAD Challenge**, a focused initiative for **June 2025** to master **Computer-Aided Design (CAD)** through hands-on modeling, precision design, and mechanical systems thinking.
+Welcome to my **CAD Challenge**, a focused initiative to master **Computer-Aided Design (CAD)** through hands-on modeling, precision design, and mechanical systems thinking.
 
-This repository is solely dedicated to **CAD-related work** and is part of a broader dual-track journey — alongside [my backend development challenge](https://github.com/Hnn3y/30-Days_with_Techyjaut) — to become a **world-class software engineer and mechanical product designer**.
+This repository is solely dedicated to **CAD-related work** and is part of a broader track journey to become a **world-class software engineer and mechanical product designer**.
 
 Here, I dive into **real-world design practices** using industry-standard tools like **SolidWorks**, **Fusion 360**, and **AutoCAD**, combining principles of form, function, manufacturability, and performance.
 
-> This challenge isn’t just about modeling — it’s about building a design mindset.
+> This challenge isn’t just about modeling, it’s about building a design mindset.
 
 ---
 
@@ -22,7 +22,7 @@ Here, I dive into **real-world design practices** using industry-standard tools 
 
 ---
 
-## 🧠 Why This Challenge Matters
+## 🧠 Why This Matters
 
 In a world where software powers everything from vehicles to robots, the **fusion of backend logic and mechanical design** is essential for full-system innovation. This CAD challenge is about:
 
@@ -58,8 +58,8 @@ Each day includes:
 
 ### CAD Software:
 - ✅ SolidWorks (main tool)
+- ✅ AutoCAD (2D design and Architectural layouts)
 - ✅ Fusion 360 (secondary, cloud-based flexibility)
-- ✅ AutoCAD (2D design and layouts)
 
 ### File Formats:
 - `.SLDPRT`, `.SLDASM` – SolidWorks native
@@ -105,14 +105,6 @@ All contributions must:
 
 ---
 
-## 🌐 Connect with TechyJaunt
-
-- GitHub: [@TechyJaunt](#)
-- LinkedIn: [linkedin.com/in/TechyJaunt](https://www.linkedin.com/company/techyjaunt/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B0Awn7GMFR5%2Bfb87beXF4%2Bg%3D%3D)
-- Twitter: [@Techyjaunt](https://x.com/TechyJaunt)
-
----
-
 > “Design is intelligence made visible.” — Alina Wheeler  
-> Let’s build what the world can see — one day at a time.
+> Let’s build what the world can see one day at a time.
 
