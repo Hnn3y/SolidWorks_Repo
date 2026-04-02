@@ -101,7 +101,7 @@ All contributions must:
 - Email: [@EnijeshikuEniola] (eenijeshiku@gmail.com)
 - GitHub: [@Hnn3y](https://github.com/Hnn3y)
 - LinkedIn: [linkedin.com/in/Enijeshiku Eniola](https://www.linkedin.com/in/enijeshiku-eniola/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5E2WXqpySne6iEjTlwgwIw%3D%3D)
-- Twitter: [@techyjaut](https://x.com/Henneiiy)
+- Twitter: [@Henney](https://x.com/Henneiiy)
 
 ---
 
