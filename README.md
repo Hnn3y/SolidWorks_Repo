@@ -75,7 +75,7 @@ Each day includes:
 |-----|------|-----------|--------|
 | 01  | Intro to Sketch | SolidWorks | ✅ Completed |
 | 02  | Practice Exercise - End Plate Sketch | SolidWorks | ✅ Completed |
-| 03  | ... | ... | 🕐 ... |
+| 03  | ... | ... |  ... |
 | 04  | ... | ... | ... |
 | 05  | ... | ... | ... |
 
